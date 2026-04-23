@@ -247,5 +247,3 @@ For issues, questions, or suggestions:
 - Check existing documentation and examples
 
 ---
-
-**Made with ❤️ to help you understand repositories better.**
